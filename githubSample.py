@@ -1,4 +1,7 @@
 for i in range(10):
     print("hello")
 
-print(10)
+list = [12, 23, 34]
+
+for i in list:
+    print(i)
